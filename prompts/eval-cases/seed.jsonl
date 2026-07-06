@@ -1,0 +1,2 @@
+{"id":"case-001","input":"请总结这段文本的核心结论","expected":"包含结论、依据、下一步建议","tags":["summary","cn"]}
+{"id":"case-002","input":"把下面需求转成结构化任务清单","expected":"JSON数组，字段: task, owner, due_date","tags":["structured-output","planning"]}

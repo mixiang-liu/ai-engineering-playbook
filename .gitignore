@@ -1,0 +1,10 @@
+.env
+.DS_Store
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Java / Maven
+target/
+*.class
